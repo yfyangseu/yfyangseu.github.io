@@ -13,12 +13,12 @@ Education
 ======
 * B.E. in Information Engineering, Southeast University, Nanjing, China, 2018
 * M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA, 2020
-* Ph.D in Computer Science and Engineering, The Ohio State University, Columbus, USA, 2026 (expected)
+* Ph.D. in Computer Science and Engineering, The Ohio State University, Columbus, USA, 2026 (expected)
 
 Work experience
 ======
 * Summer 2019: Research Internship
-  * Microsoft Research Asia
+  * Speech Group, Microsoft Research Asia
   * Duties included: Tried to improve the speaker diarization performance using doble-talk detection and speaker separation.
   * Supervisor: Dr. Frank Soong
 
@@ -27,7 +27,10 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Selected Awards
+======
+* National Scholarship
 <!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
