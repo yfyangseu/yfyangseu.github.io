@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Information Engineering, Southeast University, Nanjing, China, 2018
 * M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA, 2020
-* Ph.D in Computer Science and Engineering, The Ohio Stat University, 2026 (expected)
+* Ph.D in Computer Science and Engineering, The Ohio State University, Columbus, USA, 2026 (expected)
 
 Work experience
 ======
@@ -22,11 +22,19 @@ Work experience
   * Duties included: Tried to improve the speaker diarization performance using doble-talk detection and speaker separation.
   * Supervisor: Dr. Frank Soong
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 <!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
    -->
+   
+<!--  
 Skills
 ======
 * Skill 1
@@ -34,14 +42,10 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
