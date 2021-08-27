@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD Student in Computer Science and Engineering at The Ohio State University, advised by Dr. DeLiang Wang. My research interests are in machine learning, automatic speech recognition and their applications.
+I'm a PhD Student in [Perception and Neurodynamics Laboratory (PNL)](https://web.cse.ohio-state.edu/~wang.77/pnl/) at The Ohio State University, advised by [Dr. DeLiang Wang](https://web.cse.ohio-state.edu/~wang.77/), and in the Department of Computer Science and Engineering.
+
+My research interests are in machine learning, automatic speech recognition and their applications.
 
 
 <!-- 
