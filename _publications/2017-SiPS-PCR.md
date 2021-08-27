@@ -2,6 +2,7 @@
 title: "An Efficient Conjugate Residual Detector for Massive MIMO Systems"
 collection: publications
 permalink: /publication/2017-SiPS
+excerpt: 'Yufeng Yang, Ye Xe, Xiaohu You, and Chuan Zhang'
 date: 2017-10-01
 venue: 'IEEE International Workshop on Signal Processing Systems (SiPS)'
 paperurl: 'http://yfyangseu.github.io/files/2017-SiPS.pdf'
@@ -10,8 +11,10 @@ paperurl: 'http://yfyangseu.github.io/files/2017-SiPS.pdf'
  -->
  
 [Download](http://yfyangseu.github.io/files/2017-SiPS.pdf)
-
+<!-- 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+ -->
+
 <!-- ---
 title: "An Efficient Conjugate Residual Detector for Massive MIMO Systems"
 collection: publications
