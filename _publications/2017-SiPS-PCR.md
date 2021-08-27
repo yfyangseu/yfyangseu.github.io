@@ -2,7 +2,7 @@
 title: "An Efficient Conjugate Residual Detector for Massive MIMO Systems"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-10-01
 venue: 'IEEE International Workshop on Signal Processing Systems (SiPS)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
