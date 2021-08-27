@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yufeng Yang"
 title_separator          : "-"
-name                     : &name "Yufeng Yang (杨宇峰)"
+name                     : &name "Yufeng Yang"
 description              : &description "PhD Student at The Ohio State University"
 url                      : https://yfyangseu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yufeng Yang"
-  avatar           : "profile.png"
+  name             : "Yufeng Yang (杨宇峰)"
+  avatar           : "my_profile.png"
   bio              : "CS PhD Student at The Ohio State University"
   location         : "Columbus, OH"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yufeng-yang-183066171/"
   orcid            : #"http://orcid.org/0000-0001-5921-6541"
   pinterest        :
   soundcloud       :
