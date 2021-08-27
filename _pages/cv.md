@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Information Engineering, Southeast University, Nanjing, China, 2018
+* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA, 2020
+* Ph.D in Computer Science and Engineering, The Ohio Stat University, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Internship
+  * Microsoft Research Asia
+  * Duties included: Tried to improve the speaker diarization performance using doble-talk detection and speaker separation.
+  * Supervisor: Dr. Frank Soong
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+   -->
 Skills
 ======
 * Skill 1
