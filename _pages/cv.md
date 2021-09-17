@@ -19,7 +19,7 @@ Work experience
 ======
 * Summer 2019: Research Internship
   * Speech Group, Microsoft Research Asia
-  * Duties included: Tried to improve the speaker diarization performance using doble-talk detection and speaker separation.
+  * Duties included: Tried to improve the speaker diarization performance using doble-talk detection and speech separation.
   * Supervisor: Dr. Frank Soong
 
 Publications
