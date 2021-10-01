@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Student in the [Perception and Neurodynamics Laboratory (PNL)](https://web.cse.ohio-state.edu/~wang.77/pnl/) at The Ohio State University, in the Department of Computer Science and Engineering, and advised by Professor [DeLiang Wang](https://web.cse.ohio-state.edu/~wang.77/). I received my Bachelor of Engineering (B.E.) in Information Engineering from Southeast University, advised by Professor [Chuan Zhang](https://www.researchgate.net/profile/Chuan-Zhang-6), and my Master of Science (M.S.) in Electrical and Computer Engineering from Georgia Institute of Technology, advised by Professor [David V Anderson](https://www.ece.gatech.edu/faculty-staff-directory/david-v-anderson).
+I'm a PhD Student in the [Perception and Neurodynamics Laboratory (PNL)](https://web.cse.ohio-state.edu/~wang.77/pnl/) at The Ohio State University, in the Department of Computer Science and Engineering, and advised by Prof. [DeLiang Wang](https://web.cse.ohio-state.edu/~wang.77/). I received my Bachelor of Engineering (B.E.) in Information Engineering from Southeast University, advised by Prof. [Chuan Zhang](https://www.researchgate.net/profile/Chuan-Zhang-6), and my Master of Science (M.S.) in Electrical and Computer Engineering from Georgia Institute of Technology, advised by Prof. [David V Anderson](https://www.ece.gatech.edu/faculty-staff-directory/david-v-anderson).
 
 My current research interests are in deep learning, robust automatic speech recognition and their applications.
 
