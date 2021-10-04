@@ -31,6 +31,7 @@ Publications
 Selected Awards
 ======
 * China National Scholarship
+* Lake Scholarship, Southeast University
 
 
 <!-- * Fall 2015: Research Assistant
