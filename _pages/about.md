@@ -12,7 +12,7 @@ I'm a PhD Student in the [Perception and Neurodynamics Laboratory (PNL)](https:/
 
 My current research interests are in deep learning, robust automatic speech recognition and their applications.
 
-Contact me via email: yfyang@ieee.org or yang.5662@osu.edu.
+Contact me via email: [yfyang@ieee.org](mailto:yfyang@ieee.org) or [yang.5662@osu.edu](mailto:yang.5662@osu.edu).
 
 
 <!-- 
