@@ -1,10 +1,10 @@
 ---
 title: "A Conformer Based Acoustic Model for Robust Automatic Speech Recognition"
-collection: publications
+collection: submissions
 permalink: /publication/2022-ICASSP-Conformer
 excerpt: 'Yufeng Yang, Peidong Wang, and DeLiang Wang'
 date: 2022-05-21
-venue: 'submitted to IEEE ICASSP 2022'
+venue: 'submitted to IEEE ICASSP'
 ---
 
 <!-- paperurl: 'http://yfyangseu.github.io/files/2017-SiPS.pdf' -->
