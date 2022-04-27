@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-IS-conformer
 excerpt: "Yufeng Yang, Peidong Wang, and DeLiang Wang"
 date: 2022-04-01
-venue: 'Submitted to Interspeech'
+venue: 'arXiv:2203.00725'
 paperurl: 'https://arxiv.org/pdf/2203.00725.pdf'
 ---
 
