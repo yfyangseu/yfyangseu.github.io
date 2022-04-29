@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-SiPS
 excerpt:
 date: 2017-10-01
-venue: 'IEEE International Workshop on Signal Processing Systems (SiPS)'
+venue: 'IEEE International Workshop on Signal Processing Systems'
 paperurl: 'http://yfyangseu.github.io/files/2017-SiPS.pdf'
 ---
 
