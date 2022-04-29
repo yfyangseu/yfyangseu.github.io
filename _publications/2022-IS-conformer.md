@@ -8,5 +8,5 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2203.00725.pdf'
 ---
 
-Cite as: Y. Yang, P. Wang, and D.L. Wang, "A Conformer Based Acoustic Model for Robust Automatic Speech Recognition," arXiv preprint
-arXiv:2203.00725, 2022.
+Cite as: Y. Yang, P. Wang, and D.L. Wang, "A Conformer Based Acoustic Model for Robust Automatic Speech Recognition," <i>arXiv preprint
+arXiv:2203.00725</i>, 2022.
