@@ -11,16 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.E. in Information Engineering, Southeast University, Nanjing, China, 2018
-* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA, 2020
 * Ph.D. in Computer Science and Engineering, The Ohio State University, Columbus, USA, 2026 (expected)
+  * Advisor: Prof. DeLiang Wang 
+* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA, 2020
+  * Advisor: Prof. David V. Anderson
+* B.E. in Information Engineering, Southeast University, Nanjing, China, 2018
+  * Advisor: Prof. Chuan Zhang
 
-Work experience
+Research Experience
 ======
-* Summer 2019: Research Internship
-  * Speech Group, Microsoft Research Asia
-  * Duties included: Improving speaker diarization performance using doble-talk detection and speech separation.
-  * Supervisor: Dr. Frank Soong
+* August 2020 - Present: Graduate Research Assistant, The Ohio State University
+  * Robust ASR
+  * Speech enhancement
+
+* September 2019 - May 2020: Graduate Research Assistant, Georgia Institute of Technology
+  * Automatic speaker verification
+  * Speaker diarization
+
+* May-August 2019: Research Intern, Microsoft Research Asia
+  * Mentor: Dr. Frank K. Soong
+  * Overlapped speech detection
+
+* September 2016 - May 2018: Undergraduate Research Assistant, Southeast University
+  * Massive MIMO detection
 
 Publications
 ======
@@ -28,10 +41,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Selected Awards
+Awards
 ======
-* China National Scholarship
-* Lake Scholarship, Southeast University
+* China National Scholarship, Ministry of Education of the People's Republic of China, 2015
+* Lake Scholarship, Southeast University, 2016
 
 
 <!-- * Fall 2015: Research Assistant
