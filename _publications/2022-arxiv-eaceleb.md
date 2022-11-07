@@ -1,5 +1,5 @@
 ---
-title: "EACELEB: An East Asian Language Speaking Celebrity Dataset for Speaker Recognition"
+title: "EACELEB: An east Asian language speaking celebrity dataset for speaker recognition"
 collection: publications
 excerpt: 
 date: 2022-01-01
