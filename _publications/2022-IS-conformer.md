@@ -1,5 +1,5 @@
 ---
-title: "A Conformer Based Acoustic Model for Robust Automatic Speech Recognition"
+title: "A Conformer based acoustic model for robust automatic speech recognition"
 collection: publications
 date: 2022-10-01
 venue: 'arXiv'
