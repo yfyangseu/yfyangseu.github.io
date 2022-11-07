@@ -1,4 +1,15 @@
 ---
+title: "An Efficient Conjugate Residual Detector for Massive MIMO Systems"
+collection: publications
+permalink: /publication/2017-SiPS
+excerpt: 
+date: 2017-10-01
+venue: 'IEEE International Workshop on Signal Processing Systems'
+paperurl: http://yfyangseu.github.io/files/2017-SiPS.pdf
+citation: Y. Yang, Y. Xue, X. You, and C. Zhang, "An Efficient Conjugate Residual Detector for Massive MIMO Systems," in <i>Proc. of IEEE SiPS</i>, 2017, pp. 1–6.
+---
+
+<!-- ---
 title: "EACELEB: An East Asian Language Speaking Celebrity Dataset for Speaker Recognition"
 collection: publications
 permalink: /publication/2022-arxiv-eaceleb
@@ -8,3 +19,4 @@ venue: 'arXiv'
 paperurl: https://arxiv.org/pdf/2203.05333.pdf
 citation: D. Caulley, Y. Yang, and D. Anderson, "EACELEB: an east Asian language speaking celebrity dataset for speaker recognition," <i>arXiv:2203.05333</i>, 2022.
 ---
+ -->
