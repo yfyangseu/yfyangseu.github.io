@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science and Engineering, The Ohio State University, Columbus, USA, 2026 (expected)
+* Ph.D. in Computer Science and Engineering, The Ohio State University, Columbus, USA, Present
   * Advisor: Prof. DeLiang Wang 
 * M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA, 2020
   * Advisor: Prof. David V. Anderson
