@@ -5,7 +5,7 @@ permalink: /publication/2022-arxiv-eaceleb
 excerpt: 
 date: 2022-01-01
 venue: 'arXiv'
-paperurl: http://yfyangseu.github.io/files/2017-SiPS.pdf
+paperurl: https://arxiv.org/pdf/2203.05333.pdf
 citation: Y. Yang, Y. Xue, X. You, and C. Zhang, "An Efficient Conjugate Residual Detector for Massive MIMO Systems," in <i>Proc. of IEEE SiPS</i>, 2017, pp. 1–6.
 ---
 
