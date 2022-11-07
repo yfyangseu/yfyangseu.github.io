@@ -1,5 +1,5 @@
 ---
-title: "An Efficient Conjugate Residual Detector for Massive MIMO Systems"
+title: "An efficient conjugate residual detector for massive MIMO systems"
 collection: publications
 permalink: /publication/2017-SiPS
 excerpt: 
