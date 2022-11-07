@@ -3,8 +3,8 @@ title: "EACELEB: An East Asian Language Speaking Celebrity Dataset for Speaker R
 collection: publications
 permalink: /publication/2022-arxiv-eaceleb
 excerpt: 
-date: 2017-10-01
-venue: 'IEEE International Workshop on Signal Processing Systems'
+date: 2022-01-01
+venue: 'arXiv'
 paperurl: http://yfyangseu.github.io/files/2017-SiPS.pdf
 citation: Y. Yang, Y. Xue, X. You, and C. Zhang, "An Efficient Conjugate Residual Detector for Massive MIMO Systems," in <i>Proc. of IEEE SiPS</i>, 2017, pp. 1–6.
 ---
