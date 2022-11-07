@@ -1,7 +1,7 @@
 ---
-title: "An Efficient Conjugate Residual Detector for Massive MIMO Systems"
+title: "EACELEB: An East Asian Language Speaking Celebrity Dataset for Speaker Recognition"
 collection: publications
-permalink: /publication/2017-SiPS
+permalink: /publication/2022-arxiv-eaceleb
 excerpt: 
 date: 2017-10-01
 venue: 'IEEE International Workshop on Signal Processing Systems'
