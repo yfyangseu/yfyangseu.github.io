@@ -24,14 +24,14 @@ Research Experience
   * Robust ASR
   * Speech enhancement
 
-* May 2023 - August 2023: Research Intern, Mitsubishi Electric Research Laboratories
+* May - August 2023: Research Intern, Mitsubishi Electric Research Laboratories
   * Source separation
 
 * September 2019 - May 2020: Graduate Research Assistant, Georgia Institute of Technology
   * Automatic speaker verification
   * Speaker diarization
 
-* May-August 2019: Research Intern, Microsoft Research Asia
+* May - August 2019: Research Intern, Microsoft Research Asia
   * Overlapped speech detection
 
 * September 2016 - May 2018: Undergraduate Research Assistant, Southeast University
