@@ -26,6 +26,7 @@ Research Experience
 
 * May - August 2023: Research Intern, Mitsubishi Electric Research Laboratories
   * Source separation
+  * Self-supervised learning
 
 * September 2019 - May 2020: Graduate Research Assistant, Georgia Institute of Technology
   * Automatic speaker verification
