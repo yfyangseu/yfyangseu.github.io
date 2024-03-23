@@ -14,29 +14,18 @@ Education
 * Ph.D. in Computer Science and Engineering, The Ohio State University, Columbus, USA, Present
   * Advisor: Prof. DeLiang Wang 
 * M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA, 2020
-  * Advisor: Prof. David V. Anderson
+  * Advisor: Prof. David V Anderson
 * B.E. in Information Engineering, Southeast University, Nanjing, China, 2018
   * Advisor: Prof. Chuan Zhang
 
-Research Experience
+Industry Experience
 ======
-* August 2020 - Present: Graduate Research Assistant, The Ohio State University
-  * Robust ASR
-  * Speech enhancement
-
 * May - August 2023: Research Intern, Mitsubishi Electric Research Laboratories
   * Source separation
   * Self-supervised learning
 
-* September 2019 - May 2020: Graduate Research Assistant, Georgia Institute of Technology
-  * Automatic speaker verification
-  * Speaker diarization
-
 * May - August 2019: Research Intern, Microsoft Research Asia
   * Overlapped speech detection
-
-* September 2016 - May 2018: Undergraduate Research Assistant, Southeast University
-  * Massive MIMO detection
 
 Publications
 ======
@@ -46,8 +35,8 @@ Publications
 
 Awards
 ======
-* China National Scholarship, Ministry of Education of the People's Republic of China, 2015
-* Lake Scholarship, Southeast University, 2016
+* National Scholarship, Ministry of Education, China, 2015
+* Leike Scholarship, Southeast University, 2016
 
 
 <!-- * Fall 2015: Research Assistant
