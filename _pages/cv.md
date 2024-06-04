@@ -20,12 +20,17 @@ Education
 
 Industry Experience
 ======
+* May 2024 - Now: Research Scientist Intern, Meta
+  * Mentor: Desh Raj
+
 * May - August 2023: Research Intern, Mitsubishi Electric Research Laboratories
   * Source separation
   * Self-supervised learning
+  * Mentor: Francois Germain
 
 * May - August 2019: Research Intern, Microsoft Research Asia
   * Overlapped speech detection
+  * Mentor: Frank Soong
 
 Publications
 ======
