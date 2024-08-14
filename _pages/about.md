@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. Student in Computer Science and Engineering advised by Prof. [DeLiang Wang](https://web.cse.ohio-state.edu/~wang.77/), in the [Perception and Neurodynamics Laboratory (PNL)](https://web.cse.ohio-state.edu/~wang.77/pnl/) at The Ohio State University. I received my M.S. in Electrical and Computer Engineering from Georgia Institute of Technology, advised by Prof. [David V Anderson](https://www.ece.gatech.edu/faculty-staff-directory/david-v-anderson), and my B.E. in Information Engineering from Southeast University, advised by Prof. [Chuan Zhang](https://www.researchgate.net/profile/Chuan-Zhang-6).
+I'm a Ph.D. Student in Computer Science and Engineering, fortunately advised by Prof. [DeLiang Wang](https://u.osu.edu/dwang/), in the [Perception and Neurodynamics Laboratory (PNL)](https://u.osu.edu/pnlab/) at The Ohio State University. I received my M.S. in Electrical and Computer Engineering from Georgia Institute of Technology and my B.E. in Information Engineering from Southeast University.
 
-
-<!-- I'm a Ph.D. Student in the [Perception and Neurodynamics Laboratory (PNL)](https://web.cse.ohio-state.edu/~wang.77/pnl/) at The Ohio State University, in the Department of Computer Science and Engineering, and advised by Prof. [DeLiang Wang](https://web.cse.ohio-state.edu/~wang.77/). I received my M.S. in Electrical and Computer Engineering from Georgia Institute of Technology, advised by Prof. [David V Anderson](https://www.ece.gatech.edu/faculty-staff-directory/david-v-anderson), and my B.E. in Information Engineering from Southeast University, advised by Prof. [Chuan Zhang](https://www.researchgate.net/profile/Chuan-Zhang-6). -->
-
-My current research interests are in robust automatic speech recognition and speech enhancement.
+My current research interests are in robust ASR, speech enhancement, and speaker separation.
 
 Contact me via email: [yang.5662@osu.edu](mailto:yang.5662@osu.edu) or [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
