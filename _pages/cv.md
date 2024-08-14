@@ -20,7 +20,7 @@ Education
 
 Industry Experience
 ======
-* May 2024 - Now: Research Scientist Intern, Meta
+* May - August 2024: Research Scientist Intern, Meta
   * Mentor: Desh Raj
 
 * May - August 2023: Research Intern, Mitsubishi Electric Research Laboratories
