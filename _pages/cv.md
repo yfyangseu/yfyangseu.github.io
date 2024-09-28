@@ -21,7 +21,7 @@ Education
 Industry Experience
 ======
 * May - August 2024: Research Scientist Intern, Meta
-  * Array-geometry agnostic multi-channel self-supervised learning
+  * Multi-channel self-supervised learning
   * Mentor: Desh Raj
 
 * May - August 2023: Research Intern, Mitsubishi Electric Research Laboratories
