@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D. Student in Computer Science and Engineering, fortunately advised by Prof. [DeLiang Wang](https://u.osu.edu/dwang/), in the [Perception and Neurodynamics Laboratory (PNL)](https://u.osu.edu/pnlab/) at The Ohio State University. I received my M.S. in Electrical and Computer Engineering from Georgia Institute of Technology and my B.E. in Information Engineering from Southeast University.
 
-My current research interests are in robust ASR, speech enhancement, and speaker separation.
+My current research interests are: automatic speech recognition, speech separation, and self-supervised learning.
 
 Contact me via email: [yang.5662@osu.edu](mailto:yang.5662@osu.edu) or [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
