@@ -8,36 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. Student in Computer Science and Engineering, fortunately advised by Prof. [DeLiang Wang](https://u.osu.edu/dwang/), in the [Perception and Neurodynamics Laboratory (PNL)](https://u.osu.edu/pnlab/) at The Ohio State University. I received my M.S. in Electrical and Computer Engineering from Georgia Institute of Technology and my B.E. in Information Engineering from Southeast University.
+I'm a Ph.D. student in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://u.osu.edu/dwang/) in the [Perception and Neurodynamics Laboratory (PNL)](https://u.osu.edu/pnlab/). I hold an M.S. in Electrical and Computer Engineering from Georgia Institute of Technology and a B.E. in Information Engineering from Southeast University.
 
-My current research interests are automatic speech recognition, speech separation, and self-supervised learning.
+My research interests are in automatic speech recognition, speech separation, and self-supervised learning.
 
-Contact me via email: [yang.5662@osu.edu](mailto:yang.5662@osu.edu) or [yfyang@ieee.org](mailto:yfyang@ieee.org).
+Feel free to contact me via email: [yang.5662@osu.edu](mailto:yang.5662@osu.edu) or [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
 Education
 ======
-* Ph.D. in Computer Science and Engineering, The Ohio State University, Columbus, USA, Present
+* **Ph.D.** in Computer Science and Engineering, The Ohio State University, USA, Present
   * Advisor: Prof. DeLiang Wang
  
-* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA, 2020
+* **M.S.** in Electrical and Computer Engineering, Georgia Institute of Technology, USA, 2020
   * Advisor: Prof. David V Anderson
   
-* B.E. in Information Engineering, Southeast University, Nanjing, China, 2018
+* **B.E.** in Information Engineering, Southeast University, China, 2018
   * Advisor: Prof. Chuan Zhang
 
 Industry Experience
 ======
-* May - August 2024: Research Scientist Intern, Meta
-  * Multi-channel self-supervised learning
+* Research Scientist Intern, Meta (May - August 2024)
+  * Focus: Multi-channel self-supervised learning
   * Mentor: Desh Raj
     
-* May - August 2023: Research Intern, Mitsubishi Electric Research Laboratories
-  * Source separation
-  * Self-supervised learning
+* Research Intern, Mitsubishi Electric Research Laboratories (May - August 2023)
+  * Focus: Source separation and self-supervised learning
   * Mentor: François Germain
     
 * May - August 2019: Research Intern, Microsoft Research Asia
-  * Overlapped speech detection
+  * Focus: Overlapped speech detection
   * Mentor: Frank Soong
 
 
