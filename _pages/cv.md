@@ -27,23 +27,26 @@ Industry Experience
 * May - August 2023: Research Intern, Mitsubishi Electric Research Laboratories
   * Source separation
   * Self-supervised learning
-  * Mentor: Francois Germain
+  * Mentor: François Germain
 
 * May - August 2019: Research Intern, Microsoft Research Asia
   * Overlapped speech detection
   * Mentor: Frank Soong
 
-Publications
+
+<!--Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  -->
 
 Academic Services
 ======
 Reviewer for:
   * IEEE Signal Processing Letters
   * IEEE Transactions on Signal Processing
+  * Computer Speech & Language
   * IEEE MWCAS
   * IEEE ISCAS
 
