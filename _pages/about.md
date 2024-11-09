@@ -42,21 +42,22 @@ Industry Experience
 
 Publications
 ======
-* **Y. Yang**, D. Raj, J. Lin, N. Moritz, J. Jia, G. Keren, E. Lakomkin, Y. Huang, J. Donley, J. Mahadeokar, and O. Kalinli, "M-BEST-RQ: A multi-channel speech foundation model for smart glasses," _arXiv:2409.11494_, 2024.
-  
-* **Y. Yang**, A. Pandey, and D.L. Wang, "Towards decoupling frontend enhancement and backend recognition in monaural robust ASR," _arXiv:2403.06387_, 2024.
-  
-* **Y. Yang**, A. Pandey, and D.L. Wang, "Time-domain speech enhancement for robust automatic speech recognition," in _Proc. INTERSPEECH_, 2023, pp.4913-4917.
-  
-* **Y. Yang**, P. Wang, and D.L. Wang, "A Conformer based acoustic model for robust automatic speech recognition," _arXiv:2203.00725_, 2022.
-  
-* D. Caulley, **Y. Yang**, and D. Anderson, "EACELEB: an east Asian language speaking celebrity dataset for speaker recognition," _arXiv:2203.05333_, 2022.
-  
-* C. Zhang<sup>\*</sup>, **Y. Yang**<sup>\*</sup>, S. Zhang, Z. Zhang, and X. You, "Residual-based detections and unified architecture for massive MIMO uplink," Journal of Signal Processing Systems, vol. 91, no. 9, pp. 1039–1052, 2019.
-  
-* **Y. Yang**, W. Zhang, J. Jin, Z. Zhang, X. You, and C. Zhang, "Efficient compressed Landweber detector for massive MIMO," in Proc. of IEEE SiPS, 2018, pp. 65–70.
-  
-* **Y. Yang**, Y. Xue, X. You, and C. Zhang, "An efficient conjugate residual detector for massive MIMO systems," in Proc. of IEEE SiPS, 2017, pp. 1–6.
+1. **Y. Yang**, D. Raj, J. Lin, N. Moritz, J. Jia, G. Keren, E. Lakomkin, Y. Huang, J. Donley, J. Mahadeokar, and O. Kalinli, "M-BEST-RQ: A multi-channel speech foundation model for smart glasses," _arXiv:2409.11494_, 2024. [[pdf](https://arxiv.org/pdf/2409.11494)]
+   
+1. **Y. Yang**, A. Pandey, and D.L. Wang, "Towards decoupling frontend enhancement and backend recognition in monaural robust ASR," _arXiv:2403.06387_, 2024. [[pdf](https://arxiv.org/pdf/2403.06387)]
+   
+1. **Y. Yang**, A. Pandey, and D.L. Wang, "Time-domain speech enhancement for robust automatic speech recognition," in _Proc. INTERSPEECH_, 2023, pp.4913-4917. [[pdf](https://www.isca-archive.org/interspeech_2023/yang23_interspeech.pdf)]
+   
+1. **Y. Yang**, P. Wang, and D.L. Wang, "A Conformer based acoustic model for robust automatic speech recognition," _arXiv:2203.00725_, 2022. [[pdf](https://arxiv.org/pdf/2203.00725)]
+   
+1. D. Caulley, **Y. Yang**, and D. Anderson, "EACELEB: an east Asian language speaking celebrity dataset for speaker recognition," _arXiv:2203.05333_, 2022. [[pdf](https://arxiv.org/pdf/2203.05333)]
+   
+1. C. Zhang<sup>\*</sup>, **Y. Yang**<sup>\*</sup>, S. Zhang, Z. Zhang, and X. You, "Residual-based detections and unified architecture for massive MIMO uplink," Journal of Signal Processing Systems, vol. 91, no. 9, pp. 1039–1052, 2019. [[pdf](https://arxiv.org/pdf/1802.05982)]
+   
+1. **Y. Yang**, W. Zhang, J. Jin, Z. Zhang, X. You, and C. Zhang, "Efficient compressed Landweber detector for massive MIMO," in Proc. of IEEE SiPS, 2018, pp. 65–70. [[pdf](https://yfyangseu.github.io/files/2018-SiPS.pdf)]
+   
+1. **Y. Yang**, Y. Xue, X. You, and C. Zhang, "An efficient conjugate residual detector for massive MIMO systems," in Proc. of IEEE SiPS, 2017, pp. 1–6. [[pdf]()]
+
 
 
 Academic Services
