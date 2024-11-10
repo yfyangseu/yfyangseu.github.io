@@ -35,7 +35,7 @@ Industry Experience
   * Focus: Source separation and self-supervised learning
   * Mentor: François Germain
     
-* May - August 2019: Research Intern, Microsoft Research Asia
+* Research Intern, Microsoft Research Asia (May - August 2019)
   * Focus: Overlapped speech detection
   * Mentor: Frank Soong
 
