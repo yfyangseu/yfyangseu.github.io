@@ -77,10 +77,10 @@ Awards
 Acknowledgments
 ======
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.seu.edu.cn/english/"><img src="https://yfyangseu.github.io/files/seu.png" alt="SEU" style='height:80px'></a>
-  <a href="https://www.gatech.edu/"><img src="https://yfyangseu.github.io/files/gatech.png" alt="GATech" style='height:80px'></a>
-  <a href="https://www.osu.edu/"><img src="https://yfyangseu.github.io/files/osu.png" alt="OSU" style='height:80px'></a>
-  <a href="https://www.merl.com/"><img src="https://yfyangseu.github.io/files/merl1.png" alt="MERL" style='height:80px'></a>
+  <a href="https://www.seu.edu.cn/english/"><img src="https://yfyangseu.github.io/files/seu.png" alt="SEU" style='height:80px; object-fit: contain;'></a>
+  <a href="https://www.gatech.edu/"><img src="https://yfyangseu.github.io/files/gatech.png" alt="GATech" style='height:80px; object-fit: contain;'></a>
+  <a href="https://www.osu.edu/"><img src="https://yfyangseu.github.io/files/osu.png" alt="OSU" style='height:80px; object-fit: contain;'></a>
+  <a href="https://www.merl.com/"><img src="https://yfyangseu.github.io/files/merl1.png" alt="MERL" style='height:80px; object-fit: contain;'></a>
 </div>
 
 
