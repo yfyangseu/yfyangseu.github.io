@@ -73,3 +73,17 @@ Awards
 ======
 * National Scholarship, Ministry of Education, China, 2015
 * Leike Scholarship, Southeast University, 2016
+
+Acknowledgments
+======
+<div style="display: flex;">
+  <a href="https://www.seu.edu.cn/english/"><img src="https://yfyangseu.github.io/files/seu.png" alt="SEU" height="100"></a>
+  <a href="https://www.gatech.edu/"><img src="https://yfyangseu.github.io/files/gatech.png" alt="gatech" height="100"></a>
+  <a href="https://www.osu.edu/"><img src="https://yfyangseu.github.io/files/osu.png" alt="osu" height="100"></a>
+</div>
+
+
+
+
+
+
