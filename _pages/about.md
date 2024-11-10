@@ -52,7 +52,7 @@ Publications
    
 1. D. Caulley, **Y. Yang**, and D. Anderson, "EACELEB: an east Asian language speaking celebrity dataset for speaker recognition," _arXiv:2203.05333_, 2022. [[pdf](https://arxiv.org/pdf/2203.05333)]
    
-1. C. Zhang<sup>\*</sup>, **Y. Yang**<sup>\*</sup>, S. Zhang, Z. Zhang, and X. You, "Residual-based detections and unified architecture for massive MIMO uplink," Journal of Signal Processing Systems, vol. 91, no. 9, pp. 1039–1052, 2019. [[pdf]([https://arxiv.org/pdf/1802.05982](https://yfyangseu.github.io/files/2017-JSPS.pdf))]
+1. C. Zhang<sup>\*</sup>, **Y. Yang**<sup>\*</sup>, S. Zhang, Z. Zhang, and X. You, "Residual-based detections and unified architecture for massive MIMO uplink," Journal of Signal Processing Systems, vol. 91, no. 9, pp. 1039–1052, 2019. [[pdf](https://yfyangseu.github.io/files/2017-JSPS.pdf)]
    
 1. **Y. Yang**, W. Zhang, J. Jin, Z. Zhang, X. You, and C. Zhang, "Efficient compressed Landweber detector for massive MIMO," in Proc. of IEEE SiPS, 2018, pp. 65–70. [[pdf](https://yfyangseu.github.io/files/2018-SiPS.pdf)]
    
