@@ -77,9 +77,11 @@ Awards
 Acknowledgments
 ======
 <div style="display: flex;">
-  <a href="https://www.seu.edu.cn/english/"><img src="https://yfyangseu.github.io/files/seu.png" alt="SEU" height="100"></a>
-  <a href="https://www.gatech.edu/"><img src="https://yfyangseu.github.io/files/gatech.png" alt="gatech" height="100"></a>
-  <a href="https://www.osu.edu/"><img src="https://yfyangseu.github.io/files/osu.png" alt="osu" height="100"></a>
+  <a href="https://www.seu.edu.cn/english/"><img src="https://yfyangseu.github.io/files/seu.png" alt="SEU" height="65"></a>
+  <a href="https://www.gatech.edu/"><img src="https://yfyangseu.github.io/files/gatech.png" alt="GATech" height="65"></a>
+  <a href="https://www.osu.edu/"><img src="https://yfyangseu.github.io/files/osu.png" alt="OSU" height="65"></a>
+  <a href="https://www.merl.com/"><img src="https://yfyangseu.github.io/files/merl1.png" alt="MERL" height="60"></a>
+  <a href="https://ai.meta.com/research/"><img src="https://yfyangseu.github.io/files/meta.png" alt="Meta" height="70"></a>
 </div>
 
 
