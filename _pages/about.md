@@ -76,7 +76,7 @@ Awards
 
 Acknowledgments
 ======
-<div style="display: flex;">
+<div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.seu.edu.cn/english/"><img src="https://yfyangseu.github.io/files/seu.png" alt="SEU" height="70"></a>
   <a href="https://www.gatech.edu/"><img src="https://yfyangseu.github.io/files/gatech.png" alt="GATech" height="70"></a>
   <a href="https://www.osu.edu/"><img src="https://yfyangseu.github.io/files/osu.png" alt="OSU" height="70"></a>
