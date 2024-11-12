@@ -85,6 +85,5 @@ Acknowledgments
   <a href="https://ai.meta.com"><img src="https://yfyangseu.github.io/files/meta_s.png" alt="Meta" style='height:80px; object-fit: contain;'></a>
 </div>
 
-<a href="https://clustrmaps.com/site/1c25y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4WzAdDVpWuFXzI1HkdgfcANkHCejeUO_EjGmdUyglzU&cl=ffffff" /></a>
-
+<a href='https://clustrmaps.com/site/1c25y'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=4WzAdDVpWuFXzI1HkdgfcANkHCejeUO_EjGmdUyglzU'/></a>
 
