@@ -42,7 +42,7 @@ Industry Experience
 
 Publications
 ======
-1. **Y. Yang**, D. Raj, J. Lin, N. Moritz, J. Jia, G. Keren, E. Lakomkin, Y. Huang, J. Donley, J. Mahadeokar, and O. Kalinli, "M-BEST-RQ: A multi-channel speech foundation model for smart glasses," _arXiv:2409.11494_, 2024. [[pdf](https://arxiv.org/pdf/2409.11494)]
+1. **Y. Yang**, D. Raj, J. Lin, N. Moritz, J. Jia, G. Keren, E. Lakomkin, Y. Huang, J. Donley, J. Mahadeokar, and O. Kalinli, "M-BEST-RQ: A multi-channel speech foundation model for smart glasses," _arXiv:2409.11494_, 2024. (accepted to _ICASSP 2025_) [[pdf](https://arxiv.org/pdf/2409.11494)]
    
 1. **Y. Yang**, A. Pandey, and D.L. Wang, "Towards decoupling frontend enhancement and backend recognition in monaural robust ASR," _arXiv:2403.06387_, 2024. [[pdf](https://arxiv.org/pdf/2403.06387)]
    
