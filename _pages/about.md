@@ -69,6 +69,9 @@ Reviewer for:
   * IEEE MWCAS
   * IEEE ISCAS
 
+Volunteer for:
+  * IEEE WCSP
+
 Awards
 ======
 * National Scholarship, Ministry of Education, China, 2015
