@@ -42,7 +42,7 @@ Industry Experience
 
 Publications
 ======
-1. **Y. Yang**, H. Taherian, V.A. Kalkhorani, and D.L. Wang, "Elevating robust ASR by Decoupling multi-channel speaker separation and speech recognition," in _Proc. IEEE ICASSP_, 2025, to appear.
+1. **Y. Yang**, H. Taherian, V.A. Kalkhorani, and D.L. Wang, "Elevating robust ASR by decoupling multi-channel speaker separation and speech recognition," in _Proc. IEEE ICASSP_, 2025, to appear.
 
 1. **Y. Yang**, D. Raj, J. Lin, N. Moritz, J. Jia, G. Keren, E. Lakomkin, Y. Huang, J. Donley, J. Mahadeokar, and O. Kalinli, "M-BEST-RQ: A multi-channel speech foundation model for smart glasses," in _Proc. IEEE ICASSP_, 2025, to appear. [[pdf](https://arxiv.org/pdf/2409.11494)]
    
