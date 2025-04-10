@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/) in the [Perception and Neurodynamics Laboratory (PNL)](https://pnlwang.github.io/pnl/index.html). I hold an M.S. in Electrical and Computer Engineering from Georgia Institute of Technology and a B.E. in Information Engineering from Southeast University.
+I'm a Ph.D. candidate in the Department of Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/) in the [Perception and Neurodynamics Laboratory (PNL)](https://pnlwang.github.io/pnl/index.html). I hold an M.S. in Electrical and Computer Engineering from Georgia Institute of Technology and a B.E. in Information Engineering from Southeast University.
 
 My research interests are in automatic speech recognition, speech separation, and self-supervised learning.
 
