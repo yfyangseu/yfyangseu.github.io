@@ -27,6 +27,9 @@ Education
 
 Industry Experience
 ======
+* Research Scientist Intern, Meta (May 2025 - Present)
+  * Work with the Meta Reality Labs voice AI assistant team.
+ 
 * Research Scientist Intern, Meta (May - August 2024)
   * Focus: Multi-channel self-supervised learning
   * Mentor: Desh Raj
