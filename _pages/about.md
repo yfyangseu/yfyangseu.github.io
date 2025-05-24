@@ -49,7 +49,7 @@ Industry Experience
 
 Publications
 ======
-1. **Y. Yang**, A. Pandey, and D.L. Wang, "Towards decoupling frontend enhancement and backend recognition in monaural robust ASR," _Computer Speech & Language_, in press, 2025. [[pdf](https://arxiv.org/pdf/2403.06387)]
+1. **Y. Yang**, A. Pandey, and D.L. Wang, "Towards decoupling frontend enhancement and backend recognition in monaural robust ASR," _Computer Speech & Language_, 101821, 2025. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825000464/pdfft?md5=efc37f9380f9b183a0e92200033e2047&pid=1-s2.0-S0885230825000464-main.pdf)]
 
 1. **Y. Yang**, H. Taherian, V.A. Kalkhorani, and D.L. Wang, "Elevating robust multi-talker ASR by decoupling speaker separation and speech recognition," _arXiv:2503.17886_, 2025. [[pdf](https://arxiv.org/pdf/2503.17886)]
 
