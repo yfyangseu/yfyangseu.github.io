@@ -28,19 +28,23 @@ Education
 Industry Experience
 ======
 * Research Scientist Intern, Meta (May 2025 - Present)
-  * Work with the Meta Reality Labs voice AI assistant team.
+  * Reality Labs voice AI assistant team
+  * Mentor: Yiteng (Arden) Huang and Yong Xu
  
 * Research Scientist Intern, Meta (May - August 2024)
+  * GenAI Llama speech team
   * Focus: Multi-channel self-supervised learning
   * Mentor: Desh Raj
     
 * Research Intern, Mitsubishi Electric Research Laboratories (May - August 2023)
+  * Speech and Audio group
   * Focus: Source separation and self-supervised learning
   * Mentor: François Germain
     
 * Research Intern, Microsoft Research Asia (May - August 2019)
+  * Speech group
   * Focus: Overlapped speech detection
-  * Mentor: Frank Soong
+  * Mentor: Frank K.P. Soong
 
 
 Publications
