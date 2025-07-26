@@ -29,7 +29,7 @@ Industry Experience
 ======
 * Research Scientist Intern, Meta (May 2025 - Present)
   * Reality Labs voice AI assistant team
-  * Mentor: Yiteng (Arden) Huang and Yong Xu
+  * Mentor: Yiteng Huang and Yong Xu
  
 * Research Scientist Intern, Meta (May - August 2024)
   * GenAI Llama speech team
