@@ -29,7 +29,7 @@ Industry Experience
 ======
 * Research Scientist Intern, Meta (May - August 2025)
   * Reality Labs voice AI assistant team
-  * Focus: Multichannel ASR for smart glasses
+  * Focus: Multichannel streaming ASR for smart glasses
   * Mentor: Yiteng Huang and Yong Xu
  
 * Research Scientist Intern, Meta (May - August 2024)
