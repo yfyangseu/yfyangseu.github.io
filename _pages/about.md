@@ -29,12 +29,12 @@ Industry Experience
 ======
 * Research Scientist Intern, Meta (May - August 2025)
   * Reality Labs voice AI assistant team
-  * Focus: Multichannel streaming ASR for smart glasses
+  * Focus: Multi-channel streaming ASR for smart glasses
   * Mentor: Yiteng Huang and Yong Xu
  
 * Research Scientist Intern, Meta (May - August 2024)
   * GenAI Llama speech team
-  * Focus: Multichannel self-supervised learning for smart glasses
+  * Focus: Multi-channel self-supervised learning for smart glasses
   * Mentor: Desh Raj
     
 * Research Intern, Mitsubishi Electric Research Laboratories (May - August 2023)
