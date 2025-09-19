@@ -52,7 +52,7 @@ Publications
 ======
 1. **Yufeng Yang**, Yiteng Huang, Yong Xu, Li Wan, Suwon Shon, Yang Liu, Yifeng Fan, Zhaojun Yang, Olivier Siohan, Yue Liu, Ming Sun, and Florian Metze, "Multi-channel differential ASR for robust wearer speech recognition on smart glasses," _arXiv:2509.14430_, 2025. (In submission to _IEEE ICASSP 2026_). [[pdf](https://arxiv.org/pdf/2509.14430)]
 
-1. **Yufeng Yang**, Ashutosh Pandey, and DeLiang Wang, "Towards decoupling frontend enhancement and backend recognition in monaural robust ASR," _Computer Speech & Language_, 101821, 2025. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825000464/pdfft?md5=efc37f9380f9b183a0e92200033e2047&pid=1-s2.0-S0885230825000464-main.pdf)]
+1. **Yufeng Yang**, Ashutosh Pandey, and DeLiang Wang, "Towards decoupling frontend enhancement and backend recognition in monaural robust ASR," _Computer Speech & Language_, 101821, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825000464/pdfft?md5=efc37f9380f9b183a0e92200033e2047&pid=1-s2.0-S0885230825000464-main.pdf)]
 
 1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust multi-talker ASR by decoupling speaker separation and speech recognition," _arXiv:2503.17886_, 2025. [[pdf](https://arxiv.org/pdf/2503.17886)]
 
