@@ -50,7 +50,7 @@ Industry Experience
 
 Publications
 ======
-1. Heming Wang, **Yufeng Yang**, and DeLiang Wang, "A speech prediction model based on codec modeling and transformer decoding," _Computer Speech & Language_, 101892, 2026. [[pdf][https://www.sciencedirect.com/science/article/pii/S0885230825001172/pdfft?md5=bda7820c6e2a0a6174d89c3288774692&pid=1-s2.0-S0885230825001172-main.pdf]]
+1. Heming Wang, **Yufeng Yang**, and DeLiang Wang, "A speech prediction model based on codec modeling and transformer decoding," _Computer Speech & Language_, 101892, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825001172/pdfft?md5=bda7820c6e2a0a6174d89c3288774692&pid=1-s2.0-S0885230825001172-main.pdf)]
 
 1. **Yufeng Yang**, Yiteng Huang, Yong Xu, Li Wan, Suwon Shon, Yang Liu, Yifeng Fan, Zhaojun Yang, Olivier Siohan, Yue Liu, Ming Sun, and Florian Metze, "Multi-channel differential ASR for robust wearer speech recognition on smart glasses," _arXiv:2509.14430_, 2025. (In submission to _IEEE ICASSP 2026_). [[pdf](https://arxiv.org/pdf/2509.14430)]
 
