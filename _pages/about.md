@@ -12,6 +12,8 @@ I'm a final-year Ph.D. candidate in the Department of Computer Science and Engin
 
 My research interests are in automatic speech recognition, speech separation, and self-supervised learning.
 
+I am seeking full-time research-oriented industry positions (Research Scientist, Research Engineer, or Machine Learning Engineer) starting in June 2026, preferably in the San Francisco Bay Area.
+
 Feel free to contact me via email: [yang.5662@osu.edu](mailto:yang.5662@osu.edu) or [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
 Education
