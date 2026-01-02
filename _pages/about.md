@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/) in the [Perception and Neurodynamics Laboratory (PNL)](https://pnlwang.github.io/pnl/index.html). My research interests are in robust automatic speech recognition, speech separation, and self-supervised learning.
+I'm a final-year Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). My research interests are in robust automatic speech recognition, speech separation, and self-supervised learning.
 
 I will be on the job market for full-time research-oriented industry positions (Research Scientist / Research Engineer / Machine Learning Engineer) starting Summer 2026, with a preference for San Francisco Bay Area roles.
 
