@@ -22,7 +22,7 @@ Education
 * **M.S.** in Electrical and Computer Engineering, Georgia Institute of Technology - Atlanta, GA, 2020
   * Advisor: Prof. David V Anderson
   
-* **B.E.** in Information Engineering, Southeast University, Nanjing, China, 2018
+* **B.E.** in Information Engineering, Southeast University - Nanjing, China, 2018
   * Advisor: Prof. Chuan Zhang
 
 Industry Experience
