@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). My research interests are in robust automatic speech recognition, speech separation, and self-supervised learning.
+I'm a final-year Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I focus on robust automatic speech recognition (ASR), speech separation, and self-supervised learning.
 
-I will be on the job market for full-time research-oriented industry positions (Research Scientist / Research Engineer / Machine Learning Engineer) starting Summer 2026, with a preference for San Francisco Bay Area roles.
+I will be on the job market for full-time research-oriented industry positions (Research Scientist / Research Engineer / Machine Learning Engineer) starting Summer 2026, with a preference for San Francisco Bay Area roles. Here is my CV.
 
 Feel free to contact me via email: [yang.5662@osu.edu](mailto:yang.5662@osu.edu) or [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
 Education
 ======
-* **Ph.D.** in Computer Science and Engineering, The Ohio State University, USA, 2026 (expected)
+* **Ph.D.** in Computer Science and Engineering, The Ohio State University - Columbus, OH, 2026 (expected)
   * Advisor: Prof. DeLiang Wang
  
-* **M.S.** in Electrical and Computer Engineering, Georgia Institute of Technology, USA, 2020
+* **M.S.** in Electrical and Computer Engineering, Georgia Institute of Technology - Atlanta, GA, 2020
   * Advisor: Prof. David V Anderson
   
-* **B.E.** in Information Engineering, Southeast University, China, 2018
+* **B.E.** in Information Engineering, Southeast University, Nanjing, China, 2018
   * Advisor: Prof. Chuan Zhang
 
 Industry Experience
