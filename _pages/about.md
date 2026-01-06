@@ -70,7 +70,7 @@ Other Publications
    
 1. Desmond Caulley, **Yufeng Yang**, and David Anderson, "EACELEB: an east Asian language speaking celebrity dataset for speaker recognition," _arXiv:2203.05333_, 2022. [[pdf](https://arxiv.org/pdf/2203.05333)]
    
-1. Chuan Zhang<sup>\*</sup>, **Yufeng Yang**<sup>\*</sup>, Shunqing Zhang, Zaichen Zhang, and Xiaohu You, "Residual-based detections and unified architecture for massive MIMO uplink," _Journal of Signal Processing Systems_, vol. 91, no. 9, pp. 1039–1052, 2019. [[pdf](https://yfyangseu.github.io/files/2017-JSPS.pdf)]
+1. Chuan Zhang<sup>\*</sup>, **Yufeng Yang**<sup>\*</sup> (**co-first**), Shunqing Zhang, Zaichen Zhang, and Xiaohu You, "Residual-based detections and unified architecture for massive MIMO uplink," _Journal of Signal Processing Systems_, vol. 91, no. 9, pp. 1039–1052, 2019. [[pdf](https://yfyangseu.github.io/files/2017-JSPS.pdf)]
    
 1. **Yufeng Yang**, Wence Zhang, Jiejun Jin, Zaichen Zhang, Xiao You, and Chuan Zhang, "Efficient compressed Landweber detector for massive MIMO," in _Proc. IEEE SiPS_, 2018, pp. 65–70. [[pdf](https://yfyangseu.github.io/files/2018-SiPS.pdf)]
    
