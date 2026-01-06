@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I focus on robust automatic speech recognition (ASR), speech separation, and self-supervised learning.
+I'm a final-year Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 5+ years of research experience in robust automatic speech recognition (ASR), source separation, and multi-channel speech modeling. I'm a former Research Scientist Intern at Meta, MERL, and MSR Asia, with a focus on multi-channel ASR, speech foundation models, and their application on wearables.
 
-I will be on the job market for full-time research-oriented industry positions (Research Scientist / Research Engineer / Machine Learning Engineer) starting Summer 2026, with a preference for San Francisco Bay Area roles. Here is my [CV](https://drive.google.com/file/d/1i8gfEdywo-zE7iEZgqwhEvywzZ6SXTev/view?usp=sharing).
+I'm looking for full-time research-oriented industry positions (Research Scientist / Research Engineer / Machine Learning Engineer) starting Summer 2026, with a preference for the Bay Area roles. Here is my [CV](https://drive.google.com/file/d/1i8gfEdywo-zE7iEZgqwhEvywzZ6SXTev/view?usp=sharing).
 
 Feel free to contact me via email: [yang.5662@osu.edu](mailto:yang.5662@osu.edu) or [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
