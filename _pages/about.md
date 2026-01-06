@@ -28,36 +28,35 @@ Education
 Industry Experience
 ======
 * Research Scientist Intern, Meta (May - August 2025)
-  * Reality Labs voice AI assistant team
-  * Focus: Multi-channel streaming ASR for smart glasses
-  * Mentor: Yiteng Huang and Yong Xu
+  * Proposed multi-channel differential ASR for smart glasses, improving robustness of wearer speech recognition in real-world scenarios against side-talk
+  * Integrated complementary frontends for on-device streaming ASR without increasing latency
+  * Demonstrated that the proposed system outperforms the internal baseline with up to 18% relative WER reduction under streaming and on-device Bluetooth bandwidth constraints
+  * Resulted in a first-authored paper under review
  
 * Research Scientist Intern, Meta (May - August 2024)
-  * GenAI Llama speech team
-  * Focus: Multi-channel self-supervised learning for smart glasses
-  * Mentor: Desh Raj
+  * Proposed M-BEST-RQ, a novel array-agnostic multi-channel speech foundation model for smart glasses
+  * Demonstrated that the model trained on one device can work across different wearable devices on conversational ASR, source localization, and wearer VAD
+  * With only 8 hours of labeled speech for fine-tuning, the proposed model achieves a 3% absolute WER reduction over a baseline trained on 2k hours of labeled data for conversational ASR, demonstrating strong label efficiency
+  * Resulted in a first-authored paper accepted to ICASSP 2025
     
 * Research Intern, Mitsubishi Electric Research Laboratories (May - August 2023)
-  * Speech and Audio group
-  * Focus: Source separation and self-supervised learning
-  * Mentor: François Germain
+  * Developed unsupervised source separation methods leveraging self-supervised learning representations for multi-talker scenarios
+  * Evaluated separation quality and representation transfer across different acoustic conditions
     
 * Research Intern, Microsoft Research Asia (May - August 2019)
-  * Speech group
-  * Focus: Overlapped speech detection
-  * Mentor: Frank K.P. Soong
+  * Developed and evaluated models for overlapped speech detection and speaker separation in conversational scenarios
 
 
 Selected Publications
 ======
-1. **Yufeng Yang**, Yiteng Huang, Yong Xu, Li Wan, Suwon Shon, Yang Liu, Yifeng Fan, Zhaojun Yang, Olivier Siohan, Yue Liu, Ming Sun, and Florian Metze, "Multi-channel differential ASR for robust wearer speech recognition on smart glasses," _arXiv:2509.14430_, 2025. (In submission to _IEEE ICASSP 2026_). [[pdf](https://arxiv.org/pdf/2509.14430)]
+1. **Yufeng Yang**, Yiteng Huang, Yong Xu, Li Wan, Suwon Shon, Yang Liu, Yifeng Fan, Zhaojun Yang, Olivier Siohan, Yue Liu, Ming Sun, and Florian Metze, "Multi-channel differential ASR for robust wearer speech recognition on smart glasses," _arXiv:2509.14430_, 2025. [[pdf](https://arxiv.org/pdf/2509.14430)] (_Under Review_)
 
 1. **Yufeng Yang**, Ashutosh Pandey, and DeLiang Wang, "Towards decoupling frontend enhancement and backend recognition in monaural robust ASR," _Computer Speech & Language_, 101821, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825000464/pdfft?md5=efc37f9380f9b183a0e92200033e2047&pid=1-s2.0-S0885230825000464-main.pdf)]
 
+1. **Yufeng Yang**, Desh Raj, Ju Lin, Niko Moritz, Junteng Jia, Gil Keren, Egor Lakomkin, Yiteng Huang, Jacob Donley, Jay Mahadeokar, and Ozlem Kalinli, "M-BEST-RQ: A multi-channel speech foundation model for smart glasses," in _Proc. IEEE ICASSP_, 2025, 5 pages. [[pdf](https://yfyangseu.github.io/files/icassp25_mbestrq.pdf)]
+
 1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust ASR by decoupling multi-channel speaker separation and speech recognition," in _Proc. IEEE ICASSP_, 2025, 5 pages. [[pdf](https://yfyangseu.github.io/files/icassp25_elevating.pdf)]
 
-1. **Yufeng Yang**, Desh Raj, Ju Lin, Niko Moritz, Junteng Jia, Gil Keren, Egor Lakomkin, Yiteng Huang, Jacob Donley, Jay Mahadeokar, and Ozlem Kalinli, "M-BEST-RQ: A multi-channel speech foundation model for smart glasses," in _Proc. IEEE ICASSP_, 2025, 5 pages. [[pdf](https://yfyangseu.github.io/files/icassp25_mbestrq.pdf)]
-      
 1. **Yufeng Yang**, Ashutosh Pandey, and DeLiang Wang, "Time-domain speech enhancement for robust automatic speech recognition," in _Proc. Interspeech_, 2023, pp.4913-4917. [[pdf](https://www.isca-archive.org/interspeech_2023/yang23_interspeech.pdf)]
    
 
@@ -65,7 +64,7 @@ Other Publications
 ======
 1. Heming Wang, **Yufeng Yang**, and DeLiang Wang, "A speech prediction model based on codec modeling and transformer decoding," _Computer Speech & Language_, 101892, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825001172/pdfft?md5=bda7820c6e2a0a6174d89c3288774692&pid=1-s2.0-S0885230825001172-main.pdf)]
 
-1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust multi-talker ASR by decoupling speaker separation and speech recognition," _arXiv:2503.17886_, 2025. [[pdf](https://arxiv.org/pdf/2503.17886)]
+1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust multi-talker ASR by decoupling speaker separation and speech recognition," _arXiv:2503.17886_, 2025. [[pdf](https://arxiv.org/pdf/2503.17886)] (_Under Review_)
 
 1. **Yufeng Yang**, Peidong Wang, and DeLiang Wang, "A Conformer based acoustic model for robust automatic speech recognition," _arXiv:2203.00725_, 2022. [[pdf](https://arxiv.org/pdf/2203.00725)]
    
