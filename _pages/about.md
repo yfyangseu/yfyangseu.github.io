@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 5+ years of research experience in robust automatic speech recognition (ASR), source separation, and self-supervised learning. I'm a former Research Scientist Intern at Meta, MERL, and Microsoft, with a focus on multi-channel speech foundation model and ASR.
+I'm a final-year Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 5+ years of research experience in robust automatic speech recognition (ASR), speech separation, and self-supervised learning. I'm a former Research Scientist Intern at Meta, MERL, and Microsoft, with a focus on multi-channel speech foundation model and ASR.
 
 I'm looking for full-time industry positions (Research Scientist / Research Engineer / Machine Learning Engineer) starting May/June 2026, with a preference for the Bay Area roles. Here is my [CV](https://yfyangseu.github.io/files/CV_Yufeng.pdf).
 
