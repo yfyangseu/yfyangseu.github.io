@@ -27,23 +27,23 @@ Education
 
 Industry Experience
 ======
-* Research Scientist Intern, Meta (May - August 2025)
+* Research Scientist Intern, **Meta** (May - August 2025)
   * Proposed multi-channel differential ASR for smart glasses, improving robustness of wearer speech recognition in real-world scenarios against side-talk
   * Integrated complementary frontends for on-device streaming ASR without increasing latency
   * Demonstrated that the proposed system outperforms the internal baseline with up to 18% relative WER reduction under streaming and on-device Bluetooth bandwidth constraints
   * Resulted in a first-authored paper under review
  
-* Research Scientist Intern, Meta (May - August 2024)
+* Research Scientist Intern, **Meta** (May - August 2024)
   * Proposed M-BEST-RQ, a novel array-agnostic multi-channel speech foundation model for smart glasses
   * Demonstrated that the model trained on one device can work across different wearable devices on conversational ASR, source localization, and wearer VAD
   * With only 8 hours of labeled speech for fine-tuning, the proposed model achieves a 3% absolute WER reduction over a baseline trained on 2k hours of labeled data for conversational ASR, demonstrating strong label efficiency
   * Resulted in a first-authored paper accepted to ICASSP 2025
     
-* Research Intern, Mitsubishi Electric Research Laboratories (May - August 2023)
+* Research Intern, **Mitsubishi Electric Research Laboratories** (May - August 2023)
   * Developed unsupervised source separation methods leveraging self-supervised learning representations for multi-talker scenarios
   * Evaluated separation quality and representation transfer across different acoustic conditions
     
-* Research Intern, Microsoft Research Asia (May - August 2019)
+* Research Intern, **Microsoft Research Asia** (May - August 2019)
   * Developed and evaluated models for overlapped speech detection and speaker separation in conversational scenarios
 
 
