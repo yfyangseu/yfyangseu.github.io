@@ -80,6 +80,7 @@ Academic Services
 Reviewer for:
   * IEEE ICASSP
   * Interspeech
+  * IEEE SLT
   * IEEE Signal Processing Letters
   * IEEE Transactions on Signal Processing
   * Computer Speech & Language
