@@ -14,7 +14,7 @@ Feel free to contact me via email: [yang.5662@osu.edu](mailto:yang.5662@osu.edu)
 
 Education
 ======
-* **Ph.D.** in Computer Science and Engineering, The Ohio State University - Columbus, OH, 2020-2026 (expected)
+* **Ph.D.** in Computer Science and Engineering, The Ohio State University - Columbus, OH, 2020-2026
   * Advisor: Prof. DeLiang Wang
  
 * **M.S.** in Electrical and Computer Engineering, Georgia Institute of Technology - Atlanta, GA, 2018-2020
