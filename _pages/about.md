@@ -45,9 +45,16 @@ Industry Experience
   * Developed and evaluated models for overlapped speech detection and speaker separation in conversational scenarios
 
 
-Selected Publications
+Publications
 ======
-1. **Yufeng Yang**, Yiteng Huang, Yong Xu, Li Wan, Suwon Shon, Yang Liu, Yifeng Fan, Zhaojun Yang, Olivier Siohan, Yue Liu, Ming Sun, and Florian Metze, "Multi-channel differential ASR for robust wearer speech recognition on smart glasses," _arXiv:2509.14430_, 2025. [[pdf](https://arxiv.org/pdf/2509.14430)] (_Under Review_)
+1. **Yufeng Yang**, Cheng Yu, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Robust streaming ASR with decoupled separation and recognition," Accepted to _Interspeech_, 2026.
+
+1. **Yufeng Yang**, Yiteng Huang, Yong Xu, Li Wan, Suwon Shon, Yang Liu, Yifeng Fan, Zhaojun Yang, Olivier Siohan, Yue Liu, Ming Sun, and Florian Metze, "Multi-channel differential ASR for robust wearer speech recognition on smart glasses," Accepted to _Interspeech_, 2026. [[pdf](https://arxiv.org/pdf/2509.14430)]
+
+1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust multi-talker ASR by decoupling speaker separation and speech recognition," _Speech Communication_, 2026, in press. [[pdf](https://arxiv.org/pdf/2503.17886)]
+
+1. Heming Wang, **Yufeng Yang**, and DeLiang Wang, "A speech prediction model based on codec modeling and transformer decoding," _Computer Speech & Language_, 101892, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825001172/pdfft?md5=bda7820c6e2a0a6174d89c3288774692&pid=1-s2.0-S0885230825001172-main.pdf)]
+
 
 1. **Yufeng Yang**, Ashutosh Pandey, and DeLiang Wang, "Towards decoupling frontend enhancement and backend recognition in monaural robust ASR," _Computer Speech & Language_, 101821, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825000464/pdfft?md5=efc37f9380f9b183a0e92200033e2047&pid=1-s2.0-S0885230825000464-main.pdf)]
 
@@ -56,13 +63,6 @@ Selected Publications
 1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust ASR by decoupling multi-channel speaker separation and speech recognition," in _Proc. IEEE ICASSP_, 2025, 5 pages. [[pdf](https://yfyangseu.github.io/files/icassp25_elevating.pdf)]
 
 1. **Yufeng Yang**, Ashutosh Pandey, and DeLiang Wang, "Time-domain speech enhancement for robust automatic speech recognition," in _Proc. Interspeech_, 2023, pp.4913-4917. [[pdf](https://www.isca-archive.org/interspeech_2023/yang23_interspeech.pdf)]
-   
-
-Other Publications
-======
-1. Heming Wang, **Yufeng Yang**, and DeLiang Wang, "A speech prediction model based on codec modeling and transformer decoding," _Computer Speech & Language_, 101892, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825001172/pdfft?md5=bda7820c6e2a0a6174d89c3288774692&pid=1-s2.0-S0885230825001172-main.pdf)]
-
-1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust multi-talker ASR by decoupling speaker separation and speech recognition," _arXiv:2503.17886_, 2025. [[pdf](https://arxiv.org/pdf/2503.17886)] (_Under Review_)
 
 1. **Yufeng Yang**, Peidong Wang, and DeLiang Wang, "A Conformer based acoustic model for robust automatic speech recognition," _arXiv:2203.00725_, 2022. [[pdf](https://arxiv.org/pdf/2203.00725)]
    
