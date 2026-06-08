@@ -104,5 +104,6 @@ Acknowledgments
   <a href="https://www.osu.edu/"><img src="https://yfyangseu.github.io/files/osu.png" alt="OSU" style='height:80px; object-fit: contain;'></a>
   <a href="https://www.merl.com/"><img src="https://yfyangseu.github.io/files/merl.jpg" alt="MERL" style='height:80px; object-fit: contain;'></a>
   <a href="https://ai.meta.com"><img src="https://yfyangseu.github.io/files/meta_s.png" alt="Meta" style='height:80px; object-fit: contain;'></a>
+  <a href="https://research.netflix.com"><img src="https://yfyangseu.github.io/files/Netflix_Logo_RGB.png" alt="Netflix" style='height:80px; object-fit: contain;'></a>
 </div>
 
