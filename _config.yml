@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yufeng Yang (楊宇峰)"
   avatar           : "profile.png"
-  bio              : "CS PhD at The Ohio State University"
-  location         : "Columbus, OH"
+  bio              : "Research Engineer at Netflix"
+  location         : "Los Gatos, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=grcuPY4AAAAJ&hl=en"
-  email            : "yang.5662@buckeyemail.osu.edu"
+  email            : "yfyang@ieee.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
