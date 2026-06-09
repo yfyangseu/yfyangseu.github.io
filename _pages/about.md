@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming Research Engineer at Netflix. I received my PhD in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 5+ years of research experience in robust automatic speech recognition (ASR), speech separation, and self-supervised learning. I'm a former Research Scientist Intern at Meta, MERL, and Microsoft, with a focus on multi-channel speech foundation model and ASR.
+I'm a Research Engineer at Netflix. I received my PhD in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 5+ years of research experience in robust automatic speech recognition (ASR), speech separation, and self-supervised learning. I'm a former Research Scientist Intern at Meta, MERL, and Microsoft, with a focus on multi-channel speech foundation model and ASR.
 
 Feel free to contact me via email: [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
@@ -25,6 +25,9 @@ Education
 
 Industry Experience
 ======
+* Research Engineer, **Netflix** (June 2026 - Now)
+  * Work on ASR, speaker diarization, and audio LLMs
+  
 * Research Scientist Intern, **Meta** (May - August 2025)
   * Proposed multi-channel differential ASR for smart glasses, improving robustness of wearer speech recognition in real-world scenarios against side-talk
   * Integrated complementary frontends for on-device streaming ASR without increasing latency
@@ -51,7 +54,7 @@ Publications
 
 1. **Yufeng Yang**, Yiteng Huang, Yong Xu, Li Wan, Suwon Shon, Yang Liu, Yifeng Fan, Zhaojun Yang, Olivier Siohan, Yue Liu, Ming Sun, and Florian Metze, "Multi-channel differential ASR for robust wearer speech recognition on smart glasses," Accepted to _Interspeech_, 2026. [[pdf](https://arxiv.org/pdf/2509.14430)]
 
-1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust multi-talker ASR by decoupling speaker separation and speech recognition," _Speech Communication_, Article 103427, 2026. [[pdf](https://arxiv.org/pdf/2503.17886)]
+1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust multi-talker ASR by decoupling speaker separation and speech recognition," _Speech Communication_, Article 103427, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0167639326000750/pdfft?md5=a5a07d9b88ae3c7d20c8c614800d0d82&pid=1-s2.0-S0167639326000750-main.pdf)]
 
 1. Heming Wang, **Yufeng Yang**, and DeLiang Wang, "A speech prediction model based on codec modeling and transformer decoding," _Computer Speech & Language_, Article 101892, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0885230825001172/pdfft?md5=bda7820c6e2a0a6174d89c3288774692&pid=1-s2.0-S0885230825001172-main.pdf)]
 
