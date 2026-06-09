@@ -32,7 +32,7 @@ Industry Experience
   * Proposed multi-channel differential ASR for smart glasses, improving robustness of wearer speech recognition in real-world scenarios against side-talk
   * Integrated complementary frontends for on-device streaming ASR without increasing latency
   * Demonstrated that the proposed system outperforms the internal baseline with up to 18% relative WER reduction under streaming and on-device Bluetooth bandwidth constraints
-  * Resulted in a first-authored paper under review
+  * Resulted in a first-authored paper accepted to Interspeech 2026
  
 * Research Scientist Intern, **Meta** (May - August 2024)
   * Proposed M-BEST-RQ, a novel array-agnostic multi-channel speech foundation model for smart glasses
