@@ -26,7 +26,7 @@ Education
 Industry Experience
 ======
 * Research Engineer, **Netflix** (June 2026 - Now)
-  * Work on ASR, speaker diarization, and audio LLMs
+  * Work on speech and audio LLMs
   
 * Research Scientist Intern, **Meta** (May - August 2025)
   * Proposed multi-channel differential ASR for smart glasses, improving robustness of wearer speech recognition in real-world scenarios against side-talk
