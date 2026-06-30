@@ -50,9 +50,9 @@ Industry Experience
 
 Publications
 ======
-1. **Yufeng Yang**, Cheng Yu, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Robust streaming ASR with decoupled separation and recognition," Accepted to _Interspeech_, 2026.
+1. **Yufeng Yang**, Cheng Yu, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Robust streaming ASR with decoupled separation and recognition,"_Interspeech_, 2026, in press.
 
-1. **Yufeng Yang**, Yiteng Huang, Yong Xu, Li Wan, Suwon Shon, Yang Liu, Yifeng Fan, Zhaojun Yang, Olivier Siohan, Yue Liu, Ming Sun, and Florian Metze, "Multi-channel differential ASR for robust wearer speech recognition on smart glasses," Accepted to _Interspeech_, 2026. [[pdf](https://arxiv.org/pdf/2509.14430)]
+1. **Yufeng Yang**, Yiteng Huang, Yong Xu, Li Wan, Suwon Shon, Yang Liu, Yifeng Fan, Zhaojun Yang, Olivier Siohan, Yue Liu, Ming Sun, and Florian Metze, "Multi-channel differential ASR for robust wearer speech recognition on smart glasses," _Interspeech_, 2026, in press. [[pdf](https://arxiv.org/pdf/2509.14430)]
 
 1. **Yufeng Yang**, Hassan Taherian, Vahid Ahmadi Kalkhorani, and DeLiang Wang, "Elevating robust multi-talker ASR by decoupling speaker separation and speech recognition," _Speech Communication_, vol. 182, article 103427, 2026. [[pdf](https://www.sciencedirect.com/science/article/pii/S0167639326000750/pdfft?md5=a5a07d9b88ae3c7d20c8c614800d0d82&pid=1-s2.0-S0167639326000750-main.pdf)]
 
