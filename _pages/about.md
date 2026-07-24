@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Engineer at Netflix. I received my PhD in Computer Science and Engineering at The Ohio State University, where I'm fortunately advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 5+ years of research experience in robust automatic speech recognition (ASR), speech separation, and self-supervised learning. I'm a former Research Scientist Intern at Meta, MERL, and Microsoft, with a focus on multi-channel speech foundation model and ASR.
+I'm a Research Engineer at Netflix. I received my PhD in Computer Science and Engineering at The Ohio State University, where I was advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 5+ years of research experience in robust automatic speech recognition (ASR), speech separation, and self-supervised learning. I'm a former Research Scientist Intern at Meta, MERL, and Microsoft, with a focus on multi-channel speech foundation models and ASR.
 
 Feel free to contact me via email: [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
