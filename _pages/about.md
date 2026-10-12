@@ -72,7 +72,7 @@ Publications
    
 1. Chuan Zhang<sup>\*</sup>, **Yufeng Yang**<sup>\*</sup> (**co-first**), Shunqing Zhang, Zaichen Zhang, and Xiaohu You, "Residual-based detections and unified architecture for massive MIMO uplink," _Journal of Signal Processing Systems_, vol. 91, no. 9, pp. 1039–1052, 2019. [[pdf](https://yfyangseu.github.io/files/2017-JSPS.pdf)]
    
-1. **Yufeng Yang**, Wence Zhang, Jiejun Jin, Zaichen Zhang, Xiao You, and Chuan Zhang, "Efficient compressed Landweber detector for massive MIMO," in _Proc. IEEE SiPS_, 2018, pp. 65–70. [[pdf](https://yfyangseu.github.io/files/2018-SiPS.pdf)]
+1. **Yufeng Yang**, Wence Zhang, Jiejun Jin, Zaichen Zhang, Xiaohu You, and Chuan Zhang, "Efficient compressed Landweber detector for massive MIMO," in _Proc. IEEE SiPS_, 2018, pp. 65–70. [[pdf](https://yfyangseu.github.io/files/2018-SiPS.pdf)]
    
 1. **Yufeng Yang**, Ye Xue, Xiaohu You, and Chuan Zhang, "An efficient conjugate residual detector for massive MIMO systems," in _Proc. IEEE SiPS_, 2017, pp. 1–6. [[pdf](https://yfyangseu.github.io/files/2017-SiPS.pdf)]
 
