@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yufeng Yang"
 title_separator          : "-"
 name                     : &name "Yufeng Yang"
-description              : &description "PhD Student at The Ohio State University"
+description              : &description ""
 url                      : https://yfyangseu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yfyangseu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yufeng Yang (楊宇峰)"
   avatar           : "profile.png"
-  bio              : "Research Engineer at Netflix"
+  bio              : "Speech \& Audio AI Researcher"
   location         : "Los Gatos, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
