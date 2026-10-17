@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Speech \& Audio AI Researcher with a Ph.D. in Computer Science and Engineering from The Ohio State University, where I was advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 6+ years of research experience in speech and machine learning, with a focus on robust and multilingual automatic speech recognition (ASR), speech LLMs, speech foundation models, source separation, and multi-channel speech modeling.
+I'm a Speech & Audio AI Researcher with a Ph.D. in Computer Science and Engineering from The Ohio State University, where I was advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 6+ years of research experience in speech and machine learning, with a focus on robust and multilingual automatic speech recognition (ASR), speech LLMs, speech foundation models, source separation, and multi-channel speech modeling.
 
 Feel free to contact me via email: [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
