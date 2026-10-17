@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Engineer at Netflix. I received my PhD in Computer Science and Engineering at The Ohio State University, where I was advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 6+ years of research experience in robust automatic speech recognition (ASR), speech separation, and self-supervised learning. I'm a former Research Scientist Intern at Meta, MERL, and Microsoft, with a focus on multi-channel speech foundation models and ASR.
+I'm a Speech \& Audio AI Researcher with a Ph.D. in Computer Science and Engineering from The Ohio State University, where I was advised by Prof. [DeLiang Wang](https://pnlwang.github.io/). I have 6+ years of research experience in speech and machine learning, with a focus on robust and multilingual automatic speech recognition (ASR), speech LLMs, speech foundation models, source separation, and multi-channel speech modeling.
 
 Feel free to contact me via email: [yfyang@ieee.org](mailto:yfyang@ieee.org).
 
@@ -25,8 +25,10 @@ Education
 
 Industry Experience
 ======
-* Research Engineer, **Netflix** (June 2026 - Now)
-  * Work on speech and audio LLMs
+* Research Engineer, **Netflix** (June - December 2026)
+  * Fine-tuned and improved an LLM-based multilingual ASR model for subtitle and dubbing scripts, outperforming the production baseline across 30+ languages and diverse content types
+  * Designed data cleaning and filtering pipelines for large-scale training data, including format normalization, audio-text mismatch filtering, and repetition cleaning, mitigating model hallucinations and improving training data quality
+  * Conducted large-scale multilingual model training and evaluation, and debugged model and training pipeline issues to improve training stability and ASR performance
   
 * Research Scientist Intern, **Meta** (May - August 2025)
   * Proposed multi-channel differential ASR for smart glasses, improving robustness of wearer speech recognition in real-world scenarios against side-talk
