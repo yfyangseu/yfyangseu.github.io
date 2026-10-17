@@ -38,8 +38,8 @@ Industry Experience
  
 * Research Scientist Intern, **Meta** (May - August 2024)
   * Proposed M-BEST-RQ, a novel array-agnostic multi-channel speech foundation model for smart glasses
-  * Demonstrated that the model trained on one device can work across different wearable devices on conversational ASR, source localization, and wearer VAD
-  * With only 8 hours of labeled speech for fine-tuning, the proposed model achieves a 3% absolute WER reduction over a baseline trained on 2k hours of labeled data for conversational ASR, demonstrating strong label efficiency
+  * Demonstrated that the model trained on one device generalizes across different wearable devices on conversational ASR, source localization, and wearer VAD
+  * With only 8 hours of labeled speech for fine-tuning, the proposed model achieved a 3% absolute WER reduction over a baseline trained on 2k hours of labeled data for conversational ASR, demonstrating strong label efficiency
   * Resulted in a first-authored paper accepted to ICASSP 2025
     
 * Research Intern, **Mitsubishi Electric Research Laboratories** (May - August 2023)
