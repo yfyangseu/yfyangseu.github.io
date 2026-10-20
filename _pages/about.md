@@ -25,7 +25,7 @@ Education
 
 Industry Experience
 ======
-* Research Engineer, **Netflix** (June - December 2026)
+* Research Engineer, **Netflix** (June 2026 - Now)
   * Fine-tuned and improved an LLM-based multilingual ASR model for subtitle and dubbing scripts, outperforming the production baseline across 30+ languages and diverse content types
   * Designed data cleaning and filtering pipelines for large-scale training data, including format normalization, audio-text mismatch filtering, and repetition cleaning, mitigating model hallucinations and improving training data quality
   * Conducted large-scale multilingual model training and evaluation, and debugged model and training pipeline issues to improve training stability and ASR performance
